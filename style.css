@@ -7,11 +7,11 @@ body {
 
 /* Styles pour l'en-tête de la page */
 header {
+    background-image: url(https://usagif.com/wp-content/uploads/gif/outerspace-58.gif);
 	background-color: #333;
 	color: #fff;
 	padding: 20px;
-	text-align: center;
-	
+    text-align: center;
 }
 
 header h1 {
@@ -24,7 +24,7 @@ nav ul {
 	padding: 0;
 	list-style: none;
 	display: flex;
-    justify-content: start;
+    justify-content: center;
 	
 }
 
